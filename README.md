@@ -1,9 +1,8 @@
 # smart-job-application-filtering-system
 
-
 This project implements the Chain of Responsibility design pattern in Java using a job application filtering system as a practical example. The system simulates how applications are processed through multiple evaluation stages, where each stage independently decides whether the application should proceed further.
 
-Problem Statement
+Problem Statement:
 
 In a typical recruitment process, a job application goes through multiple levels of evaluation such as HR screening, technical assessment, and managerial approval. Implementing this logic using traditional conditional structures can lead to tightly coupled and difficult-to-maintain code.
 
